@@ -1,0 +1,1 @@
+sqlite3 Database.db .dump > backup.sql
